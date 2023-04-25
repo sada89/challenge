@@ -1,0 +1,20 @@
+.myDiv {
+ 
+    background-color: blue;    
+    text-align: center;
+     -webkit-text-fill-color: white;
+     position: relative;
+     place-content:bottom;
+  
+  }
+
+
+.myDivtest2 {
+    position: relative;
+    bottom: 300px;
+}
+
+.myDivimage {
+    width: 19px;
+    height: 50px;
+     }
